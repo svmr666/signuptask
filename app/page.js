@@ -10,8 +10,7 @@ export default function Home() {
       <FirstList />
       <SecondList />
       <ThirdList />
-      <Image src={myLogo} alt="sda" 
-       />
+      <Image src={myLogo} alt="sda" />
     </>
   );
 }
